@@ -1,0 +1,11 @@
+# Ignore Everything
+/*
+/*/
+
+# Except These
+!/.gitignore
+!/*.py
+!/*.pyc
+!/*.md
+!/src/
+!/test/
